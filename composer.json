@@ -1,0 +1,15 @@
+{
+  "name": "ehd/ehd-walkers",
+  "description": "Nav Menu API",
+  "authors": [
+    {
+      "name": "ehd",
+      "email": "official.webhd@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "EHD_Walkers\\": "src/"
+    }
+  }
+}
