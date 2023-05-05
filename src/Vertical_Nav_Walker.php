@@ -1,5 +1,4 @@
 <?php
-
 namespace EHD_Walkers;
 
 use stdClass;
